@@ -1,16 +1,13 @@
-
----
+# Practice Java Programming Projects
 
 <div align="center">
 <img width="128px" src="https://file.labex.io/path/vBtgM8cNsQFn.png">
 </div>
 
-## Java
-
 Java is a general-purpose programming language that is class-based, object-oriented, and designed to have as few implementation dependencies as possible. It is intended to let application developers write once, run anywhere (WORA), meaning that compiled Java code can run on all platforms that support Java without the need for recompilation.
 
-|   Index | Name                                                  | Level   | Project Link                                                                                             |
-|---------|-------------------------------------------------------|---------|----------------------------------------------------------------------------------------------------------|
+|   Index | Name                                                  | Level   | Project Link                                                                                              |
+|---------|-------------------------------------------------------|---------|-----------------------------------------------------------------------------------------------------------|
 |      01 | Bulk Insert Data Into Course Schedule                 | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-bulk-insert-data-into-course-schedule)               |
 |      02 | Chinese-English Information Switching via IoC         | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-chinese-english-information-switching-via-ioc)       |
 |      03 | Configuring With YAML Files                           | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-configuring-with-yaml-files)                         |
@@ -41,8 +38,9 @@ Java is a general-purpose programming language that is class-based, object-orien
 |      28 | University Information Query System                   | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-university-information-query-system)                 |
 |      29 | Extending Entity with Custom Properties               | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-custom-type-handler)                                 |
 
-### More
+## More
 
-- 🔗 [Java Programming Courses](https://github.com/labex-labs/awesome-programming-courses?tab=readme-ov-file#java)
 - 🔗 [Java Free Tutorials](https://github.com/labex-labs/java-free-tutorials)
+- 🔗 [Awesome Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
 
