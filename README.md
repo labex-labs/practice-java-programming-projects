@@ -6,8 +6,8 @@
 
 Java is a general-purpose programming language that is class-based, object-oriented, and designed to have as few implementation dependencies as possible. It is intended to let application developers write once, run anywhere (WORA), meaning that compiled Java code can run on all platforms that support Java without the need for recompilation.
 
-|   Index | Name                                                  | Level   | Project Link                                                                                              |
-|---------|-------------------------------------------------------|---------|-----------------------------------------------------------------------------------------------------------|
+|   Index | Name                                                  | Level   | Project Link                                                                                             |
+|---------|-------------------------------------------------------|---------|----------------------------------------------------------------------------------------------------------|
 |      01 | Bulk Insert Data Into Course Schedule                 | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-bulk-insert-data-into-course-schedule)               |
 |      02 | Chinese-English Information Switching via IoC         | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-chinese-english-information-switching-via-ioc)       |
 |      03 | Configuring With YAML Files                           | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-configuring-with-yaml-files)                         |
