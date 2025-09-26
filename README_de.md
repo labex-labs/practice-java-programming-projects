@@ -8,7 +8,7 @@
 <img width="128px" src="https://file.labex.io/path/vBtgM8cNsQFn.png">
 </div>
 
-Java ist eine vielseitige, objektorientierte Programmiersprache. Dieser Skill Tree bietet einen umfassenden Lernpfad zur Beherrschung von Java. Ideal für Anfänger, bietet er eine strukturierte Roadmap, um OOP-Konzepte, die Java-Syntax und die Anwendungsentwicklung zu verstehen. Durch praktische, nicht-videobasierte Kurse und praktische Programmierübungen in einem interaktiven Java-Spielplatz sammeln Sie praktische Erfahrungen beim Erstellen von Java-Anwendungen.
+Lernen Sie Java, eine vielseitige, objektorientierte Programmiersprache, mit diesem umfassenden Lernpfad. Diese Java-Kurse wurden für Anfänger entwickelt und bieten einen strukturierten Fahrplan, um OOP-Konzepte, Java-Syntax und Anwendungsentwicklung zu meistern. Sammeln Sie praktische Erfahrungen, indem Sie Java-Anwendungen durch praktische Programmierübungen in einer interaktiven Java-Umgebung erstellen.
 
 ## Übungen
 
