@@ -8,7 +8,7 @@
 <img width="128px" src="https://file.labex.io/path/vBtgM8cNsQFn.png">
 </div>
 
-Java is a versatile, object - oriented programming language. This Skill Tree offers a comprehensive learning path for mastering Java. Ideal for beginners, it provides a structured roadmap to grasp OOP concepts, Java syntax, and application development. Through hands - on, non - video courses and practical coding exercises in an interactive Java playground, you'll gain real - world experience in building Java applications.
+Learn Java, a versatile, object-oriented programming language, with this comprehensive learning path. Designed for beginners, these Java courses provide a structured roadmap to master OOP concepts, Java syntax, and application development. Gain real-world experience by building Java applications through hands-on, practical coding exercises in an interactive Java playground.
 
 ## Exercises
 
