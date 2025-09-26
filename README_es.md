@@ -8,7 +8,7 @@
 <img width="128px" src="https://file.labex.io/path/vBtgM8cNsQFn.png">
 </div>
 
-Java es un lenguaje de programación versátil y orientado a objetos. Este Skill Tree ofrece un camino de aprendizaje integral para dominar Java. Ideal para principiantes, proporciona una hoja de ruta estructurada para comprender los conceptos de OOP, la sintaxis de Java y el desarrollo de aplicaciones. A través de cursos prácticos sin video y ejercicios de codificación en un entorno interactivo de Java, adquirirás experiencia real en la creación de aplicaciones Java.
+Aprende Java, un lenguaje de programación versátil y orientado a objetos, con esta completa ruta de aprendizaje. Diseñados para principiantes, estos cursos de Java proporcionan una hoja de ruta estructurada para dominar los conceptos de POO, la sintaxis de Java y el desarrollo de aplicaciones. Adquiere experiencia en el mundo real construyendo aplicaciones Java a través de ejercicios de codificación prácticos en un entorno interactivo de Java.
 
 ## Ejercicios
 
