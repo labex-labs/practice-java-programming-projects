@@ -8,7 +8,7 @@
 <img width="128px" src="https://file.labex.io/path/vBtgM8cNsQFn.png">
 </div>
 
-Java est un langage de programmation polyvalent et orienté objet. Cet arbre de compétences propose un parcours d'apprentissage complet pour maîtriser Java. Idéal pour les débutants, il offre une feuille de route structurée pour comprendre les concepts de la POO, la syntaxe Java et le développement d'applications. Grâce à des cours pratiques sans vidéo et des exercices de codage dans un environnement Java interactif, vous acquerrez une expérience concrète dans la création d'applications Java.
+Apprenez Java, un langage de programmation polyvalent et orienté objet, grâce à ce parcours d'apprentissage complet. Conçus pour les débutants, ces cours Java offrent une feuille de route structurée pour maîtriser les concepts de la POO, la syntaxe Java et le développement d'applications. Acquérez une expérience concrète en créant des applications Java grâce à des exercices de codage pratiques et interactifs dans un environnement Java dédié.
 
 ## Exercices
 
